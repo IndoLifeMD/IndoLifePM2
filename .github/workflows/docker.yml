@@ -35,4 +35,4 @@ jobs:
       with:
         context: .  # Menentukan context build, yaitu seluruh repository
         push: true  # Memungkinkan untuk push image ke registry setelah build
-        tags: yourusername/indolife-pm2:latest  # Gantilah 'yourusername' dengan username Docker Anda
+        tags: yourusername/indolifemd:latest  # Gantilah 'yourusername' dengan username Docker Anda
